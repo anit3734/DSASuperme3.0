@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    int arr[5];
-    int n =5;
+    int arr[6];
+    int n =6;
     cout << "Enter the input " << endl;
     for (int i = 0; i < n; i++)
     {
